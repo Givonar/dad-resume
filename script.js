@@ -3,7 +3,7 @@ document.getElementById('call-button').addEventListener('click', function() {
 });
 document.addEventListener("DOMContentLoaded", function() {
   const mojavezbutton = document.querySelector(".mojavez-button");
-  mojavezButton.addEventListener("click", function() {
+  mojavezbutton.addEventListener("click", function() {
     window.open('https://qr.mojavez.ir/track/3033942', '_blank');
   });
 });
