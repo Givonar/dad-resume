@@ -2,7 +2,7 @@ body {
   direction: rtl;
   text-align: right;
 }
-.google-button {
+.mojavez.ir-button {
   background-color: #4285F4; /* رنگ آبی گوگل */
   color: #fff;
   padding: 10px 20px;
@@ -14,6 +14,6 @@ body {
   margin: 0 auto; /* وسط چین کردن دکمه */
 }
 
-.google-button:hover {
+.mojavez.ir-button:hover {
   background-color: #357ae8; /* تغییر رنگ هنگام هاور */
 }
