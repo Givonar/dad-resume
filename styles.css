@@ -17,3 +17,20 @@ body {
 .mojavez-button:hover {
   background-color: #357ae8; /* تغییر رنگ هنگام هاور */
 }
+
+
+.call-button {
+  background-color: #4285F4; /* رنگ آبی گوگل */
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  display: block;
+  margin: 0 auto; /* وسط چین کردن دکمه */
+}
+
+.call-button:hover {
+  background-color: #357ae8; /* تغییر رنگ هنگام هاور */
+}
