@@ -1,0 +1,1 @@
+vless://40c6caa5-829f-4052-b63e-2d07d708eae8@213.176.0.30:132?type=tcp&security=none&headerType=http&path=/&host=skyroom.online#UK🇬🇧-1997413542-84193
